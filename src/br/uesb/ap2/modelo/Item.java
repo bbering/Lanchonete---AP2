@@ -1,7 +1,6 @@
 package br.uesb.ap2.modelo;
 
 
-//Breno Bering Silva
 
 public class Item {
     private int quantidade;

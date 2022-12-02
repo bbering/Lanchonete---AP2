@@ -3,7 +3,7 @@ package br.uesb.ap2.controle;
 import java.util.ArrayList;
 import br.uesb.ap2.modelo.*;
 
-//Breno Bering Silva
+
 
 public class ControlePedido {
     ControleProduto cProduto = new ControleProduto();

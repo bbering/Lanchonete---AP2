@@ -2,7 +2,6 @@ package br.uesb.ap2.controle;
 import br.uesb.ap2.modelo.*;
 import java.util.ArrayList;
 
-//Breno Bering Silva
 
 public class ControleProduto {
     ArrayList<Produto> produtos = new ArrayList<Produto>();

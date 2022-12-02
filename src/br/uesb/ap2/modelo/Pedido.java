@@ -3,7 +3,7 @@ package br.uesb.ap2.modelo;
 
 import java.util.ArrayList;
 
-//Breno Bering Silva
+
 
 public class Pedido {
     private int numero;

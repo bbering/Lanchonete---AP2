@@ -1,15 +1,15 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Exercicio desenvolvido na disciplina "Algoritmos e Programação II" no segundo semestre do curso de Ciência da Computação, ministrado na Universidade Estadual do Sudoeste da Bahia. É um código em Java simples que possui 5 funcionalidades, cadastrar um produto, um pedido, adicionar itens a um pedido, remover itens de um pedido e, por fim, listar o pedido.
 
 ## Folder Structure
 
-The workspace contains two folders by default, where:
+O projeto contém alguns diretórios, dentre eles:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `src`: onde se encontram as fontes do projeto
+- `lib`: onde se encontram suas dependencias
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+As classes compiladas se encontram no diretório `bin`.
 
 > If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 

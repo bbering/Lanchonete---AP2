@@ -4,7 +4,6 @@ import br.uesb.ap2.controle.*;
 import br.uesb.ap2.modelo.*;
 import javax.swing.JOptionPane;
 
-//Breno Bering Silva
 
 public class AppPedido {
     public static String menu() {
